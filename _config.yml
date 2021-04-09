@@ -34,7 +34,6 @@ repository: "sjdodge123/sjdodge123.github.io/harborandspruce/"
 # Build settings
 theme: jekyll-theme-cayman
 plugins:
-  - "jekyll-github-metadata"
   - jekyll-feed
 
 # Exclude from processing.
