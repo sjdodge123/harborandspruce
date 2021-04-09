@@ -33,6 +33,7 @@ github_username:  jekyll
 # Build settings
 theme: jekyll-theme-cayman
 plugins:
+  - "jekyll-github-metadata"
   - jekyll-feed
 
 # Exclude from processing.
