@@ -28,7 +28,7 @@ baseurl: "/harborandspruce" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
-repository: "sjdodge123/sjdodge123.github.io/harborandspruce/"
+#repository: "sjdodge123/sjdodge123.github.io/harborandspruce/"
 
 
 # Build settings
