@@ -8,3 +8,7 @@ layout: home
 ## Section
 
 Test content
+
+## New Section
+
+Test new section content
