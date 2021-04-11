@@ -36,6 +36,7 @@ minima:
     instagram: harborandspruce
 
 # Build settings
+show_excerpts: true
 theme: minima
 environment: production
 disqus:

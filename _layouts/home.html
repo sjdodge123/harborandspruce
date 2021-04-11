@@ -21,23 +21,30 @@ layout: default
     {%- if page.list_title -%}
       <h2 class="post-list-heading">{{ page.list_title }}</h2>
     {%- endif -%}
-    <ul class="post-list">
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      {%- for post in posts -%}
-      <li>
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
-
+    <div class="container-fluid">
+      <ul class="post-list">
+      <div class="row">
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {%- for post in posts -%}
+        <div class="col-md-6 col-lg-4 mb-5">
+          <li>
+            <span class="post-meta">{{ post.date | date: date_format }}</span>
+            <h3>
+              <a class="post-link" href="{{ post.url | relative_url }}">
+                {{ post.title | escape }}
+              </a>
+            </h3>
+            <img class="img-fluid w-100" src="{{ post.thumbnail | relative_url }}"/>
+            {%- if site.show_excerpts -%}
+              {{ post.excerpt | truncate:250}}
+            {%- endif -%}
+          </li>
+          </div>
+        {%- endfor -%}
+      </div>
+      </ul>
+    </div>
+            
     {% if site.paginate %}
       <div class="pager">
         <ul class="pagination">
