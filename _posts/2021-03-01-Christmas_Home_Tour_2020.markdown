@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "My New Post"
-date:   2021-04-10 10:23:50 -0400
-categories: jekyll update
-thumbnail: "/assets/images/DIY_Hydrangea_Wreath/completedwreath.jpg"
+title:  "Christmas Home Tour 2020"
+date:   2021-01-03 10:23:50 -0400
+categories: Christmas
+thumbnail: "/assets/images/Christmas_Home_Tour_2020/thumbnail.jpg"
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-![completedwreath]({{ "/assets/images/DIY_Hydrangea_Wreath/completedwreath.jpg" | relative_url }}){:class="img-responsive"}
+
 
 Jekyll requires blog post files to be named according to the following format:
 

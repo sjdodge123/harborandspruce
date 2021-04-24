@@ -4,12 +4,5 @@
 
 layout: home
 title :  Harbor and Spruce
+banner: /assets/images/Home/banner.jpg
 ---
-
-## Section
-
-Test content
-
-## New Section
-
-Test new section content

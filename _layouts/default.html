@@ -8,6 +8,17 @@
     {%- include header.html -%}
 
     <main class="page-content" aria-label="Content">
+
+      {% if page.banner %}
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-sm-12">
+            <img class="rounded mx-auto d-block img-fluid" src="{{ page.banner | relative_url }}"/>
+          </div>
+        </div>
+      </div>
+      {% endif %}
+
       <div class="wrapper">
         {{ content }}
       </div>
