@@ -27,8 +27,8 @@ layout: default
           <li>
             <a class="post-link" href="{{ post.url | relative_url }}">
             <span class="post-meta">{{ post.date | date: date_format }}</span>
-            <img class="img-fluid w-100" src="{{ post.thumbnail | relative_url }}"/>
             <h3>{{ post.title | escape }}</h3>
+            <img class="img-fluid w-100" src="{{ post.thumbnail | relative_url }}"/>
             </a>
             {%- if site.show_excerpts -%}
               {{ post.excerpt | truncate:250}}
