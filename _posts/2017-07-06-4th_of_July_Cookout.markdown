@@ -4,7 +4,7 @@ title:  "4th of July Cookout"
 date:   2017-07-06 10:23:50 -0400
 categories: "4thofjuly partyinspiration"
 thumbnail: "/assets/images/4th_of_July_Cookout/thumbnail.jpg"
-
+comments : true
 
 fourth_of_july_chalkboard : "/assets/images/4th_of_July_Cookout/4th_of_july_chalkboard.jpg"
 
