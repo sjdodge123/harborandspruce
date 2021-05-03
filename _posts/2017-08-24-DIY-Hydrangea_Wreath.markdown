@@ -30,15 +30,11 @@ This is how mine turned out.
 
 So here’s what you’ll need to make this wreath..
 
-9 Hydrangea Flower Stems (3x of 3 different colors)
-
-18” Wire Wreath Frame
-
-Floral Wire
-
-Wire Cutters
-
-Floral Accents (optional)
+- 9 Hydrangea Flower Stems (3x of 3 different colors)
+- 18” Wire Wreath Frame
+- Floral Wire
+- Wire Cutters
+- Floral Accents (optional)
 
 [![wreathsupplies]({{ page.wreathsupplies | relative_url }}){:class="img-responsive"}]({{ page.wreathsupplies | relative_url }})
 
