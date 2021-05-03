@@ -26,11 +26,17 @@ layout: default
       {%- endif -%}</p>
   </header>
 
-  <div class="post-content e-content" itemprop="articleBody">
-    <a href="{{page.thumbnail | relative_url}}">
-      <img src=" {{page.thumbnail | relative_url}} "/>
-    </a>
-    {{ content }}
+  <div class="container-fluid">
+    <div class="post-content e-content" itemprop="articleBody">
+      <div class="row">
+        <div class="col-12">
+          <a href="{{page.thumbnail | relative_url}}">
+            <img class="mx-auto d-block" src=" {{page.thumbnail | relative_url}} "/>
+          </a>
+        </div>
+      </div>
+      {{ content }}
+    </div>
   </div>
 
 

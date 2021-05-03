@@ -2,7 +2,7 @@
 layout: post
 title:  "4th of July Cookout"
 date:   2017-07-06 10:23:50 -0400
-categories: "4thofjuly partyinspiration"
+categories: "4thofjuly eventinspiration partyinspiration"
 thumbnail: "/assets/images/4th_of_July_Cookout/thumbnail.jpg"
 fourth_of_july_chalkboard : "/assets/images/4th_of_July_Cookout/4th_of_july_chalkboard.jpg"
 fourth_of_july_fireplace : "/assets/images/4th_of_July_Cookout/4th_of_july_fireplace.jpg"

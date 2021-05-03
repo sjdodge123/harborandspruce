@@ -2,7 +2,7 @@
 layout: post
 title:  "Patriotic Summer Decor"
 date:   2017-06-28 10:23:50 -0400
-categories: "Christmas decor"
+categories: "decor 4thofjuly holiday summer"
 thumbnail: "/assets/images/Patriotic_Summer_Decor/thumbnail.jpg"
 
 

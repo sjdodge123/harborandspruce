@@ -47,6 +47,8 @@ reCaptcha:
     siteKey: 6LcvkL0aAAAAABxdrYGGCzOwtBPTeFZn8It5549y
     secret: I0ot3veuOFP0FsEZBFcbJmlZQdlJbltiMvEXUTceLEVz29NwYO66xtqFSW9xUo2hzccihyeU7gCd14KMo3mMPchM6mqx4xQmQQ1QduqsVINp5FEaKhRx8FW9T3u0j51vZdpRfG/5ufU4Vz3Y0lsRtSYmaPvkPrslurrr4pIOtCHU1mOXt1XcsreE+HPJvfmUFO4SaaL8Vn9iNFj92/hTwCEsCXo8768FDX+ib8eokS9LCDiJ2PrwiNn1XES19Mhi9iz9pwMQRcrAYC6LOV2AJnlErcP5IXBC8LrLUxYGul8Y6z/NtwwKFASOB9eyKv6XVBmp2WoFHTWbHHiAbyVRmCVrCEKjV6x41PUYpYkxZLUn3CPfI3eXzkEy7cqUH2X0Le+8mcqpGnMVL0CZnialYeNYMpyMftxxZ59zQN6mSg5mO/UdbS79U4/87y7thXMvsffSqz+05cy/4p3qrkmBZodQZlhqxLqEF3fEBpo3hIS2wHiOmqSB6ynvuyTE72z4dMhtS+yQFHgGOAQ0VBsaGIykQapXxb4blalExxW/n+23M9riefaXU8jNYsfVhgshPW711B1byVrxuQphSuy9yWHlf+Mu4zYKK04qlARWut/BOF/NR53LYJGZMkG1otb8oNBGnUMl8LP/Z9bfFSROoHBReKMwfIBgkWw0o2S5tXU=
 
+#Pagination Settings
+paginate: 3
 
 #Social
 minima:
@@ -54,6 +56,7 @@ minima:
     instagram: harborandspruce
 
 # Build settings
+
 show_excerpts: true
 theme: minima
 environment: production
@@ -61,6 +64,7 @@ disqus:
     shortname: my_disqus_shortname
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default.
