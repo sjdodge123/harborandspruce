@@ -90,4 +90,4 @@ We had a classic rock station playing on Pandora, and we all chipped in to get s
 
 I’m so happy that everything turned out nice. Everyone had a great time, and it was wonderful to spend the day celebrating with family. I hope everyone has a lovely holiday. I also hope you enjoyed this post and maybe took some inspiration from it.
 
-xo Cady
+- xo Cady

@@ -92,7 +92,7 @@ I love this wreath because it doesn’t take a lot of different supplies or much
 
 I hope you enjoyed this post and got inspired to DIY your own wreaths!
 
-xo Cady
+- xo Cady
 
 
 

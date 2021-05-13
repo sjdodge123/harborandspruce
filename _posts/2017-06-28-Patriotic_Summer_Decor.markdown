@@ -100,4 +100,4 @@ Here’s how it all looks together.
 
 Those are my patriotic summer décor pieces that I will have up roughly until Labor Day. Because we will be hosting a 4th of July cookout this year, I’ll have another post where I share some of my additional party décor. Hope you enjoyed!
 
-xo Cady
+- xo Cady

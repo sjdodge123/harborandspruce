@@ -111,4 +111,4 @@ I want to mention that I made these signs knowing I would be placing them either
 
 I hope you enjoyed this tutorial, learned something, and/or got inspired. I'm so excited that it's finally autumn and can't wait to share some more fall themed posts!
 
-xo Cady
+- xo Cady

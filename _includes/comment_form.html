@@ -8,26 +8,27 @@
     <input type="hidden" name="options[reCaptcha][siteKey]" value="{{ site.reCaptcha.siteKey }}">
     <input type="hidden" name="options[reCaptcha][secret]"  value="{{ site.reCaptcha.secret }}">
 
-    <div class="col-6 mx-auto">
-      <div class="form-floating col-12 mb-2">
-        <input name="fields[message]" type="text" class="form-control" id="comment-form-message" placeholder="Your comment.." required rows="6">
-        <label for="comment-form-message" class="form-label">Add Comment</label>
-        <small><a rel="nofollow" id="cancel-comment-reply-link" href="{{ page.url | absolute_url }}#respond" style="display:none;">(cancel reply)</a></small>
-      </div>
-      <div class="form-floating col-12 mb-2">
-        <input name="fields[name]" type="text" class="form-control" id="comment-form-name" placeholder="Your name (required)" required>
-        <label for="comment-form-name" class="form-label">Name</label>
-      </div>
-      <div class="form-floating col-12 mb-2">
-        <input name="fields[email]" type="text" class="form-control" id="comment-form-email" placeholder="Your email (optional)">
-        <label for="comment-form-email" class="form-label">E-mail</label>
-      </div>
-      <div class="mb-3">
-        <div id="reCaptcha" class="g-recaptcha" data-sitekey="{{ site.reCaptcha.siteKey }}"></div>
-      </div>
-      <button class="btn btn-primary" id="comment-form-submit">
+    <div class="form-floating mx-auto col-lg-6 col-12 mb-2">
+      <input name="fields[message]" type="text" class="form-control" id="comment-form-message" placeholder="Your comment.." required rows="6">
+      <label for="comment-form-message" class="form-label">Add Comment</label>
+      <small><a rel="nofollow" id="cancel-comment-reply-link" href="{{ page.url | absolute_url }}#respond" style="display:none;">(cancel reply)</a></small>
+    </div>
+    <div class="form-floating mx-auto col-lg-6 col-12 mb-2">
+      <input name="fields[name]" type="text" class="form-control" id="comment-form-name" placeholder="Your name (required)" required>
+      <label for="comment-form-name" class="form-label">Name</label>
+    </div>
+    <div class="form-floating mx-auto col-lg-6 col-12 mb-2">
+      <input name="fields[email]" type="text" class="form-control" id="comment-form-email" placeholder="Your email (optional)">
+      <label for="comment-form-email" class="form-label">E-mail</label>
+    </div>
+    <div class="mx-auto col-lg-6 col-12">
+      <div id="reCaptcha" class="mx-auto g-recaptcha" data-sitekey="{{ site.reCaptcha.siteKey }}"></div>
+      <button class="col-12 btn btn-primary" id="comment-form-submit">
         Submit
       </button>
+    </div>
+    <br/>
+    <br/>
     </div>
   </form>
 

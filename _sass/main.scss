@@ -26,11 +26,13 @@ html a:hover{
 }
 
 .back-to-top {
+    z-index: 9999;
     position: fixed;
     bottom: 75px;
     right: 75px;
     display: none;
 }
+
 .social-share iframe{
     vertical-align: middle;
 }

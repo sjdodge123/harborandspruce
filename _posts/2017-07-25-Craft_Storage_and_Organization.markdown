@@ -97,4 +97,4 @@ And this is how it looks now!
 
 I had a lot to go through, but I’m so happy I got all of my crafting supplies organized and looking good. It’s so nice to have the space to store everything, and I’m lucky to have gotten some great storage items for a decent price. I hope you enjoyed reading this post and hopefully took away some inspiration and/or tips for organizing!
 
-xo Cady
+- xo Cady

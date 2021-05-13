@@ -6,11 +6,13 @@ categories: "Christmas decor"
 thumbnail: "/assets/images/Christmas_Home_Tour_2020/thumbnail.jpg"
 
 
-completedwreath : "/assets/images/DIY_Hydrangea_Wreath/completedwreath.jpg"
+IMAGENAMEHERE : "/assets/images/DIY_Hydrangea_Wreath/IMAGENAMEHERE.jpg"
   
 ---
 ---
 
-[![completedwreath]({{ page.completedwreath | relative_url }}){:class="img-responsive"}]({{ page.completedwreath | relative_url }})
+[![IMAGENAMEHERE]({{ page.IMAGENAMEHERE | relative_url }}){:class="img-responsive"}]({{ page.IMAGENAMEHERE | relative_url }})
 
 (https://www.postlinkhere){:target="_blank"}
+
+- 
