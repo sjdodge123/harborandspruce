@@ -8,8 +8,21 @@
   
       {%- if titles_size > 0 -%}
         <nav class="navbar navbar-expand-lg navbar-light">
-          <div class="container-fluid">
-          <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.logo_title | escape }}</a>
+          <a class="site-title navbar-brand" rel="author" href="{{ "/" | relative_url }}">{{ site.logo_title | escape }}</a>
+          <div class="navbar-socials mx-auto">
+            <a href="http://www.pinterest.com/cadydodge/" target="_blank" >
+              <i class="fab fa-pinterest-p"></i>
+            </a>
+            <a href="http://instagram.com/harborandspruce" target="_blank">
+              <i class=" fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            <a href="https://www.facebook.com/harborandspruce" target="_blank">
+              <i class="fab fa-facebook-f" aria-hidden="true"></i>
+            </a>
+            <a href="https://www.etsy.com/shop/HarborandSpruce" target="_blank">
+              <i class="fab fa-etsy" aria-hidden="true"></i>
+            </a>
+          </div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -25,7 +38,7 @@
                 {%- endfor -%}
               </ul>
             </div>
-          </div>
+          
         </nav>
 
       {%- endif -%}
