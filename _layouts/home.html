@@ -31,7 +31,7 @@ layout: default
             <img class="img-fluid w-100" src="{{ post.thumbnail | relative_url }}"/>
             </a>
             {%- if site.show_excerpts -%}
-              {{ post.excerpt | truncate:250}}
+              {{ post.excerpt | truncate:150}}
             {%- endif -%}
           </li>
           </div>

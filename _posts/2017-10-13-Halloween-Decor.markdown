@@ -45,7 +45,6 @@ yard2 : "/assets/images/Halloween_Decor/yard2.jpg"
   
 ---
 ---
-
 It's Friday the 13th of October, and Halloween is right around the corner, so I thought it was the perfect opportunity to share some Halloween home decor. I recently posted a [fall home decor blog](http://cadygorbet.com/content/posts/Fall_Home_Decor/Fall_Home_Decor.php){:target="_blank"}, so I also wanted to make mention of how I mix together my fall and Halloween decor. I didn't want it to be a lot of work to change out every fall decor piece to Halloween, so I kept a lot of the same stuff up, I just added spiderwebs to make it a bit spookier. A few of the fall pieces I took down and replaced with Halloween items (mostly on the mantle), but after Halloween I'm going to put back the autumn pieces until Thanksgiving is over. I don't want this post to get too text heavy, but I will try to list where everything is from.
 
 Here's the overview of our living room area. You'll notice that most of my decorating consisted of adding spiderwebs to decor that was already up and sticking paper bats everywhere. It was super easy, and I think just those two small, inexpensive things make a big enough statement.

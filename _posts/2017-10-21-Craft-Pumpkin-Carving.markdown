@@ -28,7 +28,6 @@ trickortreat : "/assets/images/Craft_Pumpkin_Carving/trickortreat.jpg"
   
 ---
 ---
-
 In this post, I'm going to share how to carve foam craft pumpkins. I first saw craft pumpkins while shopping at Michaels a few years ago. They had a book at their floral desk where you could pick out a design and have a pumpkin ordered and laser cut with your design. While I was there, I heard someone say that you could actually do it yourself using a hot knife and get the same effect. So I decided to get one and try it out. It turned out awesome, and I've been a little bit addicted to carving craft pumpkins ever since.
 
 DISCLAIMER: This project is NOT something kids should be doing. Even with adult supervision, children should NOT be handling a hot knife. It can be dangerous for adults as well, so use your best judgment and take precaution.
